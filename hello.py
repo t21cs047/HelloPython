@@ -40,7 +40,4 @@ data = [5,3,1,2,8,6,7,9,4,10]
 
 print( quick_sort(data))
 
-from janken import janken
-
-janken("A", "B")
 
